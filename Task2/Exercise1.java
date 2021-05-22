@@ -1,5 +1,5 @@
-import java.awt.*;
-import java.util.Collections;
+package Task2;
+
 import java.util.Scanner;
 
 public class Exercise1<Int> {
